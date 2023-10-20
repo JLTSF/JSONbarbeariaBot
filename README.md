@@ -14,7 +14,7 @@ Selecione o arquivo JSON baixado e foguetinho🚀
 Como toda nossa lógica de agendamento, alteração e cancelamento de horário está na API,
 pode ser que o fluxo não seja executado corretamente. Estarei disponibilizando o Endpoint da API para que consigam testar no dia 20/10 a partir das 12hr até as 23:59.
 
-No momento essa API está em teste, por esse e outros motivos não poderia disponibilizá-la ainda para vocês.
+No momento essa API está em fase de teste e conectada a minha agenda pessoal, por esse e outros motivos não poderia disponibilizá-la ainda para vocês.
 Aos que se sentirem desafiados e quiserem fazer sua própria API recomendo ler bem a documentação: https://developers.google.com/calendar/api/v3/reference?hl=pt-br
 
 Adicione o Endpoint nas "Variáveis de configuração", vá até "Configuração"
