@@ -17,8 +17,9 @@ pode ser que o fluxo não seja executado corretamente. Estarei disponibilizando 
 No momento essa API está em fase de teste e conectada a minha agenda pessoal, por esse e outros motivos não poderia disponibilizá-la ainda para vocês.
 Aos que se sentirem desafiados e quiserem fazer sua própria API recomendo ler bem a documentação: https://developers.google.com/calendar/api/v3/reference?hl=pt-br
 
-Adicione o Endpoint nas "Variáveis de configuração", vá até "Configuração"
-e em seguida "Variáveis de configuração" no canto inferior direito
+Adicione o endpoint nas "Variáveis de configuração", vá até "Configuração"
+e em seguida "Variáveis de configuração" no canto inferior direito, selecione "Adicionar informaçôes extras"
+Na esquerda escreva "api", na direita o nosso endpoint e foguetinho 🚀.
 
 ![image](https://github.com/JLTSF/JSONbarbeariaBot/assets/72716399/5844b4f2-85ac-4fa2-94b2-0d654fcbfb2a)
 
