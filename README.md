@@ -24,7 +24,7 @@ Na esquerda escreva "api", na direita o nosso endpoint e foguetinho 🚀.
 ![image](https://github.com/JLTSF/JSONbarbeariaBot/assets/72716399/5844b4f2-85ac-4fa2-94b2-0d654fcbfb2a)
 
 
-### Confira se o Endpoint está igual ao disponibilizado aqui neste passo a passo "https://4816-45-4-146-253.ngrok-free.app/calendar"
+### Confira se o endpoint que você está usando é igual ao disponibilizado aqui neste passo a passo 👉"https://4816-45-4-146-253.ngrok-free.app/calendar"
 GET /getAvailableTimes/range "(range: number) busca os horários livres na agenda em um determinado range de dias, caso não passe um valor, por padrão é 7 dias."
 GET /getEventConfirmed/range "(range: number) busca os horários marcados na agenda em um determinado range de dias, caso não passe um valor, por padrão é 7 dias."
 POST /createdEvent "cria um evento na agenda, necessário passar os seguintes parametros."
