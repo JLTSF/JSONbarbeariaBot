@@ -34,7 +34,13 @@ POST /createdEvent "cria um evento na agenda, necessário passar os seguintes pa
   "start": {"dateTime":"new Date()"},
   "end": {"dateTime":"new Date()"}
 }
-JSON ```
+```
+POST /deleteEvent "deleta um evento passando como parametro seu "eventId" que é retornado na rota /getEventConfirmed."
+```
+{
+  "eventId": "string"
+}
+```
 
 ![image](https://github.com/JLTSF/JSONbarbeariaBot/assets/72716399/a0bbec26-b203-43d4-99b3-b5967015318d)
 
