@@ -25,9 +25,9 @@ Na esquerda escreva "api", na direita o nosso endpoint e foguetinho 🚀.
 
 
 ### Confira se o endpoint que você está usando é igual ao disponibilizado aqui neste passo a passo 👉"https://4816-45-4-146-253.ngrok-free.app/calendar"
-GET /getAvailableTimes/range "(range: number) busca os horários livres na agenda em um determinado range de dias, caso não passe um valor, por padrão é 7 dias."
-GET /getEventConfirmed/range "(range: number) busca os horários marcados na agenda em um determinado range de dias, caso não passe um valor, por padrão é 7 dias."
-POST /createdEvent "cria um evento na agenda, necessário passar os seguintes parametros."
+- GET /getAvailableTimes/range "(range: number) busca os horários livres na agenda em um determinado range de dias, caso não passe um valor, por padrão é 7 dias."
+- GET /getEventConfirmed/range "(range: number) busca os horários marcados na agenda em um determinado range de dias, caso não passe um valor, por padrão é 7 dias."
+- POST /createdEvent "cria um evento na agenda, necessário passar os seguintes parametros."
 ```
 {
   "summary": "string",
@@ -35,7 +35,7 @@ POST /createdEvent "cria um evento na agenda, necessário passar os seguintes pa
   "end": {"dateTime":"new Date()"}
 }
 ```
-POST /deleteEvent "deleta um evento passando como parametro seu "eventId" que é retornado na rota /getEventConfirmed."
+- POST /deleteEvent "deleta um evento passando como parametro seu "eventId" que é retornado na rota /getEventConfirmed."
 ```
 {
   "eventId": "string"
