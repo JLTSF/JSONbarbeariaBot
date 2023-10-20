@@ -45,8 +45,8 @@ Na esquerda escreva "api", na direita o nosso endpoint e foguetinho 🚀.
 ![image](https://github.com/JLTSF/JSONbarbeariaBot/assets/72716399/a0bbec26-b203-43d4-99b3-b5967015318d)
 
 Vocês tambem podem testar o bot indo nessa vidraça quimica ⚗️ e selecionando "Testar chatbot publicado"
-e uma tela para interagir com o chatbot devera aparecer na tela. Vale resaltear que a funcionalidade de alterar e cancelar agendamento nesse tipo de teste não deve funcionar
-pois um usuario de teste é criado a cada vez que reinicia o teste, para que essas skills funcionem, testem pelo Telegam.
+e uma tela para interagir com o chatbot devera aparecer na tela. Vale ressaltar que a funcionalidade de alterar e cancelar agendamento nesse tipo de teste não deve funcionar
+pois um usuario de teste é criado a cada vez que reinicia o teste, para que essas skills funcionem, testem pelo Telegram.
 
 ![image](https://github.com/JLTSF/JSONbarbeariaBot/assets/72716399/1e1fae33-e44f-49f4-9e09-75935eef3d81)
 ![image](https://github.com/JLTSF/JSONbarbeariaBot/assets/72716399/643f3459-8b1c-4a19-8357-5ba6076a3ce3)
