@@ -28,11 +28,13 @@ Na esquerda escreva "api", na direita o nosso endpoint e foguetinho 🚀.
 GET /getAvailableTimes/range "(range: number) busca os horários livres na agenda em um determinado range de dias, caso não passe um valor, por padrão é 7 dias."
 GET /getEventConfirmed/range "(range: number) busca os horários marcados na agenda em um determinado range de dias, caso não passe um valor, por padrão é 7 dias."
 POST /createdEvent "cria um evento na agenda, necessário passar os seguintes parametros."
+```
 {
   "summary": "string",
   "start": {"dateTime":"new Date()"},
   "end": {"dateTime":"new Date()"}
 }
+JSON ```
 
 ![image](https://github.com/JLTSF/JSONbarbeariaBot/assets/72716399/a0bbec26-b203-43d4-99b3-b5967015318d)
 
